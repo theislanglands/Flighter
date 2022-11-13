@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://corado.dk/HCI2021/janpe20/sitemap.xml

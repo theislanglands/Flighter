@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+      <loc>http://corado.dk/HCI2021/janpe20/</loc>
+      <lastmod>2021-12-07</lastmod>
+    </url>
+
+    <url>
+        <loc>http://corado.dk/HCI2021/janpe20/add_flight.html</loc>
+        <lastmod>2021-12-07</lastmod>
+    </url>
+
+    <url>
+        <loc>http://corado.dk/HCI2021/janpe20/boarding_pass.html</loc>
+        <lastmod>2021-12-07</lastmod>
+    </url>
+
+    <url>
+        <loc>http://corado.dk/HCI2021/janpe20/end_flight.html</loc>
+        <lastmod>2021-12-07</lastmod>
+    </url>
+
+    <url>
+        <loc>http://corado.dk/HCI2021/janpe20/index.html</loc>
+        <lastmod>2021-12-07</lastmod>
+    </url>
+
+    <url>
+        <loc>http://corado.dk/HCI2021/janpe20/my_flight.html</loc>
+        <lastmod>2021-12-07</lastmod>
+    </url>
+
+    <url>
+        <loc>http://corado.dk/HCI2021/janpe20/timetable.html</loc>
+        <lastmod>2021-12-07</lastmod>
+    </url>
+</urlset>
